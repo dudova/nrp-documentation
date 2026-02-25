@@ -1,0 +1,8 @@
+{
+  "title": "Sensitive data: preparation before deposit",
+  "description": "Guidance for end users on preparing sensitive datasets for repository deposit.",
+  "display": true,
+  "items": [
+    { "slug": "index", "title": "Overview", "order": 1 }
+  ]
+}
